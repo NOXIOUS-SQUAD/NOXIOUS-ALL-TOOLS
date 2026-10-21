@@ -248,7 +248,7 @@ python main.py
 
 ## 🔄 Changelog
 
-### v1.0 — Última versión
+### v2.0 — Última versión
 - ✅ **Actualizado enlace de Discord** a [discord.gg/Q6cknK8f3y](https://discord.gg/Q6cknK8f3y).
 - ✅ **Dev actualizado** a `nscp12`.
 - ✅ **Barra de estado rediseñada** — muestra versión y autor en lugar de key y tiempo restante.
