@@ -1,0 +1,100 @@
+📌 DESCRIPCIÓN GENERAL
+────────────────────────────────────────────────────────────────
+NOXIOUS SQUAD | ALL TOOLS es una suite todo-en-uno avanzada que
+reúne más de 50 herramientas para profesionales, pentesters y entusiastas que
+necesitan un toolkit completo, rápido y confiable en un solo
+lugar.
+
+📦 LISTA COMPLETA DE HERRAMIENTAS (50+)
+
+🔐 CUENTAS — Verificación de credenciales
+────────────────────────────────────────────────────────────────
+  🔐 Spotify Checker        → Verifica combos email:pass de Spotify
+  🎬 Netflix Checker        → Verifica cuentas de Netflix
+  🎮 Steam Checker          → Verifica logins de Steam
+  💬 Discord Token Checker  → Valida tokens y extrae info de usuario
+  🎯 Epic Games Checker     → Verifica cuentas Epic Games
+
+🌐 WEB
+────────────────────────────────────────────────────────────────
+  💉 SQL Injection Scanner  → Detecta inyecciones SQL con 7 payloads
+  ⚔️ XSS Scanner            → Detecta XSS reflejado
+  🕵️ Admin Finder           → Busca 30+ rutas de paneles admin
+  📁 Directory Brute Force  → Fuzzing de directorios con wordlist
+  🌐 Subdomain Scanner      → Enumera subdominios via DNS
+
+🛡️ PRIVACIDAD
+────────────────────────────────────────────────────────────────
+  🖐️ Fingerprint            → Genera huella digital del sistema/navegador
+  🌐 Browser Info           → Analiza User-Agent y detecta navegador/OS
+  🔓 DNS Leak Test          → Detecta fugas de DNS
+  📹 WebRTC Leak            → Detecta exposición de IPs privadas via WebRTC
+  🛡️ Privacy Checkup        → Score de privacidad, detección VPN/datacenter
+  🧲 Torrent Leak           → Verifica IP expuesta en clientes torrent
+
+🔒 SEGURIDAD
+────────────────────────────────────────────────────────────────
+  📧 Email Leak             → Verifica si un email aparece en brechas
+  🔑 Password Generator     → Genera contraseñas seguras con entropía
+  🔍 Port Scanner           → Escaneo TCP real con fallback local
+  🚫 Blacklist              → Verifica IP en 12 listas negras DNSBL
+  🛡️ Security Headers       → Analiza cabeceras de seguridad HTTP
+  ✉️ Email Auth             → Verifica SPF/DKIM/DMARC de dominios
+
+📡 RED
+────────────────────────────────────────────────────────────────
+  🌍 My IP                  → Muestra IP pública, geolocalización, ISP
+  🔎 IP Lookup              → Geolocalización e ISP de cualquier IP
+  🏢 ASN Lookup             → Información de ASN por IP/AS/org
+  📡 DNS Lookup             → Consulta registros A/AAAA/MX/NS/TXT/CNAME
+  ⚡ Speed Test             → Mide ping, descarga y subida
+  🔄 Reverse DNS            → Resuelve PTR/hostname de una IP
+  🛣️ Traceroute             → Traza ruta hasta destino (system + fallback)
+  📜 WHOIS / RDAP           → Información de registro de dominios
+
+📦 MÁS / IP TOOLS
+────────────────────────────────────────────────────────────────
+  🧮 Subnet Calc            → Calcula máscara, red, broadcast, hosts
+  🔢 CIDR Calc              → Convierte CIDR a rango detallado
+  📏 IP Range to CIDR       → Convierte rango de IPs a lista CIDR
+  📍 IP in CIDR             → Verifica si una IP está dentro de un CIDR
+  ⭐ Special IP             → Analiza si es privada/loopback/multicast
+  🔌 Down?                  → Verifica si un sitio está caído
+  📦 Bulk Lookup            → Consulta hasta 50 IPs en lote
+  🎲 Bingo                  → Bingo divertido de seguridad
+
+🧰 DEV TOOLS
+────────────────────────────────────────────────────────────────
+  🔤 Base64                 → Codifica/decodifica Base64 y URLSafe
+  📋 JSON                   → Formatea, minifica y valida JSON
+  🔐 Hash                   → Genera MD5/SHA1/SHA256/SHA512/BLAKE2b
+  🔗 URL Encode/Decode      → Codifica y decodifica URLs
+  🎟️ JWT Decoder            → Decodifica JWT sin verificar firma
+  ⏰ Epoch Converter        → Convierte epoch ↔ fecha y muestra ahora
+  🆔 UUID Tool              → Genera y valida UUID v1/v3/v4/v5
+  🔳 QR Code                → Genera códigos QR y guarda PNG
+  📧 Email Headers Parser   → Analiza cabeceras de emails
+  🔄 IP Converter           → Convierte IP entre decimal/hex/bin/octal
+  🌐 IPv6 Expand/Compress   → Expande y comprime direcciones IPv6
+  💻 MAC Tool               → Genera, valida y busca vendor de MAC
+
+🔍 DETECTAR
+────────────────────────────────────────────────────────────────
+  🖥️ Screen                 → Detecta resolución, DPI y orientación
+  🌐 User Agent             → Muestra y parsea tu User-Agent
+  📋 Headers                → Inspecciona cabeceras HTTP enviadas
+  🕵️ Proxy Check            → Detecta proxy/VPN y headers sospechosos
+  💻 Info                   → Información de sistema, CPU, RAM, disco
+  ⏰ Timezone               → Zona horaria, offset y hora local/UTC
+  🗣️ Language               → Idioma del sistema y Accept-Language
+  📍 Location               → Ubicación aproximada via IP
+  🔒 SSL/TLS                → Analiza certificado, cipher y expiración
+
+🕵️ OSINT
+────────────────────────────────────────────────────────────────
+  🌐 IP Info                → Información detallada de IP
+  📧 Email Breach Check     → Brechas de emails (alternativo)
+  👤 Username Search        → Busca usuario en 15 plataformas
+  📰 News                   → Noticias de seguridad
+  🔀 Combo Sorter           → Separa combos por keyword
+  🔎 Extractor              → Extrae emails, combos, IPs, URLs, teléfonos
