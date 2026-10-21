@@ -248,8 +248,7 @@ python main.py
 
 ## 🔄 Changelog
 
-### v2.0 — Última versión
-- ✅ **Eliminado sistema de login/licencia** — ahora la app abre directamente sin key ni registro.
+### v1.0 — Última versión
 - ✅ **Actualizado enlace de Discord** a [discord.gg/Q6cknK8f3y](https://discord.gg/Q6cknK8f3y).
 - ✅ **Dev actualizado** a `nscp12`.
 - ✅ **Barra de estado rediseñada** — muestra versión y autor en lugar de key y tiempo restante.
@@ -261,7 +260,6 @@ python main.py
 
 - **Developer:** `nscp12`
 - **Comunidad:** [NOXIOUS SQUAD en Discord](https://discord.gg/Q6cknK8f3y)
-- **Diseño visual:** Tema oscuro personalizado con paleta verde neón (#A3FF3D)
 
 <p align="center">
   <img src="assets/logo.png" width="120" alt="NOXIOUS SQUAD Logo">
